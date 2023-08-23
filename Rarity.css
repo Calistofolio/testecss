@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(213, 178, 246);
+    text-align: center;
+    font: normal 20pt Arial;
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    color: rgb(74, 33, 43, 0.963);
+    background: rgba(140, 60, 166, 0.783);
+    padding: 10px;
+    border: 2px solid rgb(255, 210, 61);
+}
+p {
+    color: rgba(74, 33, 43, 0.963);
+    font: normal 25pt;
+    text-align: center;
+}
+#criminosa{
+    border: solid 5px rgb(255, 210, 61);
+    border-radius: 40px;
+    box-shadow: 10px 10px 3px rgba(163, 102, 203, 0.692);
+}
